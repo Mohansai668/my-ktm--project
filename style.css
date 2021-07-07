@@ -1,0 +1,41 @@
+.navbar-brand{
+  font-size: 25px;
+  font-weight: bold;
+}
+span{
+  color:#FF7600;
+}
+
+.nav-link{
+   margin: 10px;
+}
+
+.banner{
+  width: 100px;
+  height:100vh;
+  background: url(ktm.jpg);
+  background-position:top;
+  background-size: cover;
+}
+.data{
+  color: lightpink;
+  text-align: center;
+  position: relative;
+  font-family: cursive;
+  top:300px;
+}
+.features {
+  margin: 30px;
+}
+.text{
+  text-align: center;
+  font-family: cursive;
+  padding:30px 30px;
+}
+.caursal{
+  margin: 20px;
+  width: auto;
+  height: auto;
+  background-position: center;
+  background-size: cover;
+}
